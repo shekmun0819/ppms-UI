@@ -1,0 +1,10 @@
+.title {
+  margin: bottom 0.8rem;
+  font-weight: 700;
+  font-size: larger;
+}
+
+.label {
+  margin: bottom 0.8rem;
+  font-weight: 600;
+}

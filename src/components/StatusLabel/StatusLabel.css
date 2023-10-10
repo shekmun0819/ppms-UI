@@ -1,0 +1,47 @@
+.active-status {
+  background-color: #388e3c;
+  color: white;
+  padding: 0.3em 0.5em;
+  margin: 0.5em;
+  display: flex;
+  text-decoration: none;
+  border-radius: 1em;
+  justify-content: center;
+  width: 100%;
+}
+
+.inactive-status {
+  background-color: grey;
+  color: white;
+  padding: 0.3em 0.5em;
+  margin: 0.5em;
+  display: flex;
+  text-decoration: none;
+  border-radius: 1em;
+  justify-content: center;
+  width: 100%;
+}
+
+.pending-status {
+  background-color: rgb(255, 128, 1);
+  color: white;
+  padding: 0.3em 0.5em;
+  margin: 0.5em;
+  display: flex;
+  text-decoration: none;
+  border-radius: 1em;
+  justify-content: center;
+  width: 100%;
+}
+
+.rejected-status {
+  background-color: rgb(219, 37, 37);
+  color: white;
+  padding: 0.3em 0.5em;
+  margin: 0.5em;
+  display: flex;
+  text-decoration: none;
+  border-radius: 1em;
+  justify-content: center;
+  width: 100%;
+}

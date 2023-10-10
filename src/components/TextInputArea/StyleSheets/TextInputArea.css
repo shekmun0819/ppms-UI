@@ -1,0 +1,15 @@
+/*
+**Author: Santosh Kumar Dash
+**Author URL: http://santoshdash.epizy.com/
+**Github URL: https://github.com/quintuslabs/dashio-admin
+*/
+textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
